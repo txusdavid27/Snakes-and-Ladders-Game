@@ -1,0 +1,2 @@
+# Snakes and Ladders Game
+ The Snakes and Ladders game consists of advancing through a board with squares in which each player "falls" randomly by means of a die. But what makes the game special, is that each throw could lead you into a trap!! Up or down I would say. Also the executable is Free :) I used two lists to store the information of the objects, players and squares of the board. Each node is each token and for the other list, it would be each square.
